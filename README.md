@@ -22,29 +22,21 @@
 ```
 Module 1
 │
-├── Lesson 1
-│      Array Basics
+├── Lesson 1 → Array Basics
 │
-├── Lesson 2
-│      Traversal
+├── Lesson 2 → Array Traversal
 │
-├── Lesson 3
-│      State Pattern
+├── Lesson 3 → State Pattern
 │
-├── Lesson 4
-│      Simulation
+├── Lesson 4 → Simulation
 │
-├── Lesson 5
-│      Frequency Counting
+├── Lesson 5 → Frequency Counting
 │
-├── Lesson 6
-│      Pattern Recognition
+├── Lesson 6 → Pattern Recognition
 │
-├── Lesson 7
-│      Revision
+├── Lesson 7 → Revision
 │
-└── Lesson 8
-       Assessment
+└── Lesson 8 → Assessment
 ```
 
 - [X] Lesson 1 : Array Basics
@@ -75,7 +67,7 @@ Chapter 11 → Lesson Quiz
 Chapter 12 → Revision Notes
 ```
 
-#### Lesson 2 — Traversal
+#### Lesson 1 — Traversal
 
 ```
 Lesson 2 — Traversal
