@@ -101,6 +101,22 @@ Chapter 13
 Revision Notes
 ```
 
+```
+Lesson 2 — Traversal
+
+Chapter 1 → What is Traversal?
+Chapter 2 → Why Do We Need Traversal?
+Chapter 3 → Types of Traversal
+Chapter 4 → Traversal Mental Model
+Chapter 5 → Traversal in JavaScript
+Chapter 6 → Dry Run
+Chapter 7 → Common Beginner Mistakes
+Chapter 8 → Interview Recognition
+Chapter 9 → Practice Problems
+Chapter 10 → Lesson Quiz
+Chapter 11 → Revision
+```
+
 ### Module 2 — Two Pointers
 
 - [ ] Lesson 1 : Opposite Direction
