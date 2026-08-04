@@ -61,45 +61,21 @@ Module 1
 ```
 Lesson 1 — Array Basics
 
-Chapter 1
-Why Arrays Exist
-
-Chapter 2
-What is an Array?
-
-Chapter 3
-Elements
-
-Chapter 4
-Index
-
-Chapter 5
-Zero-Based Indexing
-
-Chapter 6
-Length
-
-Chapter 7
-Accessing Elements
-
-Chapter 8
-Updating Elements
-
-Chapter 9
-Visual Memory Model
-
-Chapter 10
-Common Mistakes
-
-Chapter 11
-Practice
-
-Chapter 12
-Lesson Quiz
-
-Chapter 13
-Revision Notes
+Chapter 1 → Understanding Array Traversal
+Chapter 2 → Types of Array Traversal
+Chapter 3 → Forward Traversal
+Chapter 4 → Backward Traversal
+Chapter 5 → Traversing Arrays with Loops
+Chapter 6 → Traversing Arrays with Recursion
+Chapter 7 → Applications of Array Traversal
+Chapter 8 → Visual Memory Model
+Chapter 9 → Common Traversal Mistakes
+Chapter 10 → Practice Problems
+Chapter 11 → Lesson Quiz
+Chapter 12 → Revision Notes
 ```
+
+#### Lesson 2 — Traversal
 
 ```
 Lesson 2 — Traversal
