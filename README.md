@@ -47,7 +47,7 @@ Module 1
        Assessment
 ```
 
-- [ ] Lesson 1 : Array Basics
+- [X] Lesson 1 : Array Basics
 - [ ] Lesson 2 : Traversal
 - [ ] Lesson 3 : State Pattern
 - [ ] Lesson 4 : Simulation
@@ -59,22 +59,46 @@ Module 1
 #### Lesson 1 — Array Basics
 
 ```
-Lesson 1
-│
-├── What is an Array?
-├── Why Do We Need Arrays?
-├── Memory Representation
-├── Index
-├── Zero-Based Indexing
-├── Accessing Elements
-├── Updating Elements
-├── Array Length
-├── Valid vs Invalid Index
-├── Common Beginner Mistakes
-├── JavaScript Array Basics
-├── Practice Questions
-├── Lesson Quiz
-└── Revision Notes
+Lesson 1 — Array Basics
+
+Chapter 1
+Why Arrays Exist
+
+Chapter 2
+What is an Array?
+
+Chapter 3
+Elements
+
+Chapter 4
+Index
+
+Chapter 5
+Zero-Based Indexing
+
+Chapter 6
+Length
+
+Chapter 7
+Accessing Elements
+
+Chapter 8
+Updating Elements
+
+Chapter 9
+Visual Memory Model
+
+Chapter 10
+Common Mistakes
+
+Chapter 11
+Practice
+
+Chapter 12
+Lesson Quiz
+
+Chapter 13
+Revision Notes
 ```
 
 ### Module 2 — Two Pointers
