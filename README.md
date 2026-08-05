@@ -1,7 +1,5 @@
 # DSA in JavaScript — Progress Tracker
 
----
-
 ## Phase 0 — JS for DSA
 
 - [ ] Big-O
@@ -19,28 +17,8 @@
 
 ### Module 1 — Foundations
 
-```
-Module 1
-│
-├── Lesson 1 → Array Basics
-│
-├── Lesson 2 → Array Traversal
-│
-├── Lesson 3 → State Pattern
-│
-├── Lesson 4 → Simulation
-│
-├── Lesson 5 → Frequency Counting
-│
-├── Lesson 6 → Pattern Recognition
-│
-├── Lesson 7 → Revision
-│
-└── Lesson 8 → Assessment
-```
-
 - [X] Lesson 1 : Array Basics
-- [ ] Lesson 2 : Traversal
+- [X] Lesson 2 : Traversal
 - [ ] Lesson 3 : State Pattern
 - [ ] Lesson 4 : Simulation
 - [ ] Lesson 5 : Frequency Counting
@@ -67,7 +45,7 @@ Chapter 11 → Lesson Quiz
 Chapter 12 → Revision Notes
 ```
 
-#### Lesson 1 — Traversal
+#### Lesson 2 — Traversal
 
 ```
 Lesson 2 — Traversal
