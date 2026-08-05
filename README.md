@@ -63,6 +63,21 @@ Chapter 10 → Lesson Quiz
 Chapter 11 → Revision
 ```
 
+#### Lesson 3 - State Pattern
+
+```
+Lesson 3 — State Pattern
+
+Chapter 1 → What is State?
+Chapter 2 → Why State Exists
+Chapter 3 → Types of State
+Chapter 4 → Maintaining State
+Chapter 5 → State in JavaScript
+Chapter 6 → Dry Run
+Chapter 7 → Common Beginner Mistakes
+Chapter 8 → Interview Recognition
+```
+
 ### Module 2 — Two Pointers
 
 - [ ] Lesson 1 : Opposite Direction
