@@ -77,87 +77,40 @@ Chapter 6 → Dry Run
 Chapter 7 → Common Beginner Mistakes
 Chapter 8 → Interview Recognition
 ```
+# DSA Roadmap
 
-### Module 2 — Two Pointers
+## ☐ Module 2 — Linear Scan Patterns
 
-- [ ] Lesson 1 : Opposite Direction
-- [ ] Lesson 2 : Same Direction
-- [ ] Lesson 3 : Fast & Slow Pointer
-- [ ] Lesson 4 : Practice
-- [ ] Lesson 5 : Assessment
+- [ ] Lesson 1 → Two Pointers
+- [ ] Lesson 2 → Fixed Sliding Window
+- [ ] Lesson 3 → Variable Sliding Window
+- [ ] Lesson 4 → Prefix Sum
+- [ ] Lesson 5 → Difference Array
+- [ ] Lesson 6 → Revision
+- [ ] Lesson 7 → Assessment
 
-### Module 3 — Sliding Window
+---
 
-- [ ] Fixed Window
-- [ ] Variable Window
-- [ ] Practice
-- [ ] Assessment
+## ☐ Module 3 — Ordered & Search Patterns
 
-### Module 4 — Prefix Techniques
+- [ ] Lesson 1 → Binary Search
+- [ ] Lesson 2 → Sorting-Based Problems
+- [ ] Lesson 3 → Merge Intervals
+- [ ] Lesson 4 → Revision
+- [ ] Lesson 5 → Assessment
 
-- [ ] Prefix Sum
-- [ ] Difference Array
-- [ ] Prefix XOR
-- [ ] Assessment
+---
 
-### Module 5 — Binary Search on Arrays
+## ☐ Module 4 — Advanced Array Patterns
 
-- [ ] Binary Search
-- [ ] Lower Bound
-- [ ] Upper Bound
-- [ ] Rotated Array
-- [ ] Binary Search on Answer
-- [ ] Assessment
-
-### Module 6 — Sorting Problems
-
-- [ ] Sorting Basics
-- [ ] Comparator
-- [ ] Sort + Greedy
-- [ ] Assessment
-
-### Module 7 — Interval Problems
-
-- [ ] Merge Intervals
-- [ ] Insert Interval
-- [ ] Meeting Rooms
-- [ ] Assessment
-
-### Module 8 — Matrix
-
-- [ ] Matrix Traversal
-- [ ] Spiral Matrix
-- [ ] Rotate Matrix
-- [ ] Diagonal Traversal
-- [ ] Assessment
-
-### Module 9 — Kadane's Algorithm
-
-- [ ] Maximum Subarray
-- [ ] Variations
-- [ ] Assessment
-
-### Module 10 — Monotonic Stack
-
-- [ ] Next Greater Element
-- [ ] Previous Smaller Element
-- [ ] Largest Rectangle
-- [ ] Assessment
-
-### Module 11 — Greedy on Arrays
-
-- [ ] Jump Game
-- [ ] Gas Station
-- [ ] Candy
-- [ ] Assessment
-
-### Module 12 — Mixed Interview Patterns
-
-- [ ] Sliding Window + Hash Map
-- [ ] Prefix Sum + Hash Map
-- [ ] Two Pointers + Sorting
-- [ ] Binary Search + Greedy
-- [ ] Final Assessment
+- [ ] Lesson 1 → Matrix / 2D Arrays
+- [ ] Lesson 2 → Spiral Matrix
+- [ ] Lesson 3 → Kadane's Algorithm
+- [ ] Lesson 4 → Greedy on Arrays
+- [ ] Lesson 5 → Monotonic Stack
+- [ ] Lesson 6 → Prefix XOR
+- [ ] Lesson 7 → Revision
+- [ ] Lesson 8 → Assessment
 
 ---
 
