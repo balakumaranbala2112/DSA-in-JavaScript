@@ -77,40 +77,164 @@ Chapter 6 → Dry Run
 Chapter 7 → Common Beginner Mistakes
 Chapter 8 → Interview Recognition
 ```
-# DSA Roadmap
+### Module 2 — Two Pointers
 
-## ☐ Module 2 — Linear Scan Patterns
+#### Part 1 . Fundamentals
 
-- [ ] Lesson 1 → Two Pointers
-- [ ] Lesson 2 → Fixed Sliding Window
-- [ ] Lesson 3 → Variable Sliding Window
-- [ ] Lesson 4 → Prefix Sum
-- [ ] Lesson 5 → Difference Array
-- [ ] Lesson 6 → Revision
-- [ ] Lesson 7 → Assessment
-
----
-
-## ☐ Module 3 — Ordered & Search Patterns
-
-- [ ] Lesson 1 → Binary Search
-- [ ] Lesson 2 → Sorting-Based Problems
-- [ ] Lesson 3 → Merge Intervals
-- [ ] Lesson 4 → Revision
-- [ ] Lesson 5 → Assessment
+- [ ] What is Two Pointers?
+- [ ] Why Two Pointers exists
+- [ ] Pointer vs index
+- [ ] Core mental model
+- [ ] How Two Pointers reduces brute force
+- [ ] When it gives `O(n)` instead of `O(n²)`
 
 ---
 
-## ☐ Module 4 — Advanced Array Patterns
+#### Part 2 . Two Pointer Variations
 
-- [ ] Lesson 1 → Matrix / 2D Arrays
-- [ ] Lesson 2 → Spiral Matrix
-- [ ] Lesson 3 → Kadane's Algorithm
-- [ ] Lesson 4 → Greedy on Arrays
-- [ ] Lesson 5 → Monotonic Stack
-- [ ] Lesson 6 → Prefix XOR
-- [ ] Lesson 7 → Revision
-- [ ] Lesson 8 → Assessment
+- [ ] Opposite-End Two Pointers
+
+  ```
+  left →          ← right
+  ```
+
+- [ ] Same-Direction Two Pointers
+
+  ```
+  slow →
+  fast →
+  ```
+
+- [ ] Fast & Slow Pointers
+
+  ```
+  slow →
+  fast →→
+  ```
+
+- [ ] Multiple Pointers
+
+  ```
+  left + middle + right
+  ```
+
+---
+
+#### Part 3 . Pattern Recognition
+
+- [ ] How to identify Two Pointers
+- [ ] Interview keywords / clues
+- [ ] Sorted-array clues
+- [ ] Pair / triplet clues
+- [ ] In-place modification clues
+- [ ] Comparing elements from both ends
+- [ ] Recognizing when nested loops can be optimized
+- [ ] When Two Pointers doesn't apply
+
+---
+
+#### Part 4 . Problem-Solving Method
+
+For every problem:
+
+- [ ] Understand the problem
+- [ ] Identify the pattern
+- [ ] Build brute force
+- [ ] Analyze brute-force complexity
+- [ ] Find repeated / unnecessary work
+- [ ] Derive Two Pointer optimization
+- [ ] Define pointer meaning
+- [ ] Decide pointer movement
+- [ ] Prove why movement is safe
+- [ ] Code
+- [ ] Dry run
+- [ ] Check edge cases
+- [ ] Analyze complexity
+
+---
+
+#### Part 5 . Important Problem Patterns
+
+- [ ] Pair Sum
+- [ ] Two Sum on Sorted Array
+- [ ] Remove Element
+- [ ] Remove Duplicates from Sorted Array
+- [ ] Move Zeroes
+- [ ] Reverse Array
+- [ ] Valid Palindrome
+- [ ] Container With Most Water
+- [ ] 3Sum
+- [ ] 4Sum
+- [ ] Partitioning
+- [ ] In-place array modification
+- [ ] Duplicate handling
+
+---
+
+#### Part 6 . JavaScript Mastery
+
+- [ ] Pointer variables
+- [ ] `while` loops
+- [ ] Pointer movement
+- [ ] Array indexing
+- [ ] In-place modification
+- [ ] JavaScript-specific pitfalls
+- [ ] Reusable templates
+
+---
+
+#### Part 7 . Practice
+
+- [ ] Guided Easy Problems
+- [ ] Independent Easy Problems
+- [ ] Guided Medium Problems
+- [ ] Independent Medium Problems
+- [ ] Difficult Problems
+- [ ] Pattern-recognition drills
+
+**Practice target:** `10 Easy + 10 Medium + 5 Hard`
+
+> Solutions are not revealed immediately.
+> If stuck: Hint 1 → Hint 2 → Hint 3 → Solution
+
+---
+
+#### Part 8 . Interview Mastery
+
+- [ ] Explain Two Pointers without code
+- [ ] Identify Two Pointers from a new problem
+- [ ] Explain brute force
+- [ ] Explain why optimization works
+- [ ] Explain pointer movement
+- [ ] State time complexity
+- [ ] State space complexity
+- [ ] Compare Two Pointers vs Sliding Window
+- [ ] Compare Two Pointers vs Hash Map
+- [ ] Compare Two Pointers vs Binary Search
+
+---
+
+#### Part 9 . Revision
+
+- [ ] Two Pointer mental model
+- [ ] Recognition checklist
+- [ ] Templates
+- [ ] Pointer movement rules
+- [ ] Common mistakes
+- [ ] Edge cases
+- [ ] Complexity cheat sheet
+
+---
+
+#### Part 10 . Module Assessment
+
+- [ ] Theory
+- [ ] Pattern recognition
+- [ ] Brute force → optimization
+- [ ] Dry run
+- [ ] Coding
+- [ ] Complexity
+- [ ] Interview-style unseen problems
 
 ---
 
