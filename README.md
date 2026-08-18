@@ -15,10 +15,17 @@
 
 ## Phase 1 — Arrays
 
+<details>
+<summary>
+
 ### Module 1 — Foundations
 
-- [X] Lesson 1 : Array Basics
-- [X] Lesson 2 : Traversal
+</summary>
+
+#### Lessons
+
+- [x] Lesson 1 : Array Basics
+- [x] Lesson 2 : Traversal
 - [ ] Lesson 3 : State Pattern
 - [ ] Lesson 4 : Simulation
 - [ ] Lesson 5 : Frequency Counting
@@ -26,57 +33,84 @@
 - [ ] Lesson 7 : Module Revision
 - [ ] Lesson 8 : Module Assessment
 
-#### Lesson 1 — Array Basics
+---
 
-```
-Lesson 1 — Array Basics
+<details>
+<summary>Lesson 1 — Array Basics</summary>
 
-Chapter 1 → Understanding Array Traversal
-Chapter 2 → Types of Array Traversal
-Chapter 3 → Forward Traversal
-Chapter 4 → Backward Traversal
-Chapter 5 → Traversing Arrays with Loops
-Chapter 6 → Traversing Arrays with Recursion
-Chapter 7 → Applications of Array Traversal
-Chapter 8 → Visual Memory Model
-Chapter 9 → Common Traversal Mistakes
-Chapter 10 → Practice Problems
-Chapter 11 → Lesson Quiz
-Chapter 12 → Revision Notes
-```
+- [ ] Chapter 1 → Understanding Array Traversal
+- [ ] Chapter 2 → Types of Array Traversal
+- [ ] Chapter 3 → Forward Traversal
+- [ ] Chapter 4 → Backward Traversal
+- [ ] Chapter 5 → Traversing Arrays with Loops
+- [ ] Chapter 6 → Traversing Arrays with Recursion
+- [ ] Chapter 7 → Applications of Array Traversal
+- [ ] Chapter 8 → Visual Memory Model
+- [ ] Chapter 9 → Common Traversal Mistakes
+- [ ] Chapter 10 → Practice Problems
+- [ ] Chapter 11 → Lesson Quiz
+- [ ] Chapter 12 → Revision Notes
 
-#### Lesson 2 — Traversal
+</details>
 
-```
-Lesson 2 — Traversal
+<details>
+<summary>Lesson 2 — Traversal</summary>
 
-Chapter 1 → What is Traversal?
-Chapter 2 → Why Do We Need Traversal?
-Chapter 3 → Types of Traversal
-Chapter 4 → Traversal Mental Model
-Chapter 5 → Traversal in JavaScript
-Chapter 6 → Dry Run
-Chapter 7 → Common Beginner Mistakes
-Chapter 8 → Interview Recognition
-Chapter 9 → Practice Problems
-Chapter 10 → Lesson Quiz
-Chapter 11 → Revision
-```
+- [ ] Chapter 1 → What is Traversal?
+- [ ] Chapter 2 → Why Do We Need Traversal?
+- [ ] Chapter 3 → Types of Traversal
+- [ ] Chapter 4 → Traversal Mental Model
+- [ ] Chapter 5 → Traversal in JavaScript
+- [ ] Chapter 6 → Dry Run
+- [ ] Chapter 7 → Common Beginner Mistakes
+- [ ] Chapter 8 → Interview Recognition
+- [ ] Chapter 9 → Practice Problems
+- [ ] Chapter 10 → Lesson Quiz
+- [ ] Chapter 11 → Revision
 
-#### Lesson 3 - State Pattern
+</details>
 
-```
-Lesson 3 — State Pattern
+<details>
+<summary>Lesson 3 — State Pattern</summary>
 
-Chapter 1 → What is State?
-Chapter 2 → Why State Exists
-Chapter 3 → Types of State
-Chapter 4 → Maintaining State
-Chapter 5 → State in JavaScript
-Chapter 6 → Dry Run
-Chapter 7 → Common Beginner Mistakes
-Chapter 8 → Interview Recognition
-```
+- [ ] Chapter 1 → What is State?
+- [ ] Chapter 2 → Why State Exists
+- [ ] Chapter 3 → Types of State
+- [ ] Chapter 4 → Maintaining State
+- [ ] Chapter 5 → State in JavaScript
+- [ ] Chapter 6 → Dry Run
+- [ ] Chapter 7 → Common Beginner Mistakes
+- [ ] Chapter 8 → Interview Recognition
+
+</details>
+
+<details>
+<summary>Lesson 4 — Simulation</summary>
+
+</details>
+
+<details>
+<summary>Lesson 5 — Frequency Counting</summary>
+
+</details>
+
+<details>
+<summary>Lesson 6 — Pattern Recognition</summary>
+
+</details>
+
+<details>
+<summary>Lesson 7 — Module Revision</summary>
+
+</details>
+
+<details>
+<summary>Lesson 8 — Module Assessment</summary>
+
+</details>
+
+</details>
+
 ### Module 2 — Two Pointers
 
 #### Part 1 . Fundamentals
